@@ -1,6 +1,6 @@
 # imports everthing I need
 from alpha_vantage.timeseries import TimeSeries
-from openpyxl import Workbook
+# from openpyxl import Workbook (Will start importing once I need it)
 import datetime
 import json
 # sets a couple variables for libraries I'll need in a sec.
